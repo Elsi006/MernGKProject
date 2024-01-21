@@ -18,4 +18,4 @@ View sales history and trends.
 <p>Search Functionality:</p>
 Search products based on various criteria (name, category, etc.).
 Quick and efficient search algorithm.
-![WhatsApp Image 2024-01-21 at 16 21 43_000940de](https://github.com/Elsi006/MernGKProject/assets/107699845/6dde12cc-ab40-49f9-9f40-a2cff452441b)
+![wireframe](https://github.com/Elsi006/MernGKProject/assets/107699845/6dde12cc-ab40-49f9-9f40-a2cff452441b)
